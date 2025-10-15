@@ -6,9 +6,9 @@ import googlePlayLogo from './assets/google.png'
 
 function App() {
   const [copied, setCopied] = useState(false)
-  const [referralCode, setReferralCode] = useState('AVAKNK')
+  const [referralCode, setReferralCode] = useState('4RSDRU')
 
-  const allowedCodes = ['AVAKNK', '5VSK3S'] 
+  const allowedCodes = ['4RSDRU', 'XCPNDT'] 
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search)
