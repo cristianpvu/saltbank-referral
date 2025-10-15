@@ -8,7 +8,7 @@ function App() {
   const [copied, setCopied] = useState(false)
   const [referralCode, setReferralCode] = useState('4RSDRU')
 
-  const allowedCodes = ['4RSDRU', 'XCPNDT'] 
+  const allowedCodes = ['4RSDRU', 'XCPNDT','AVAKNK'] 
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search)
