@@ -210,6 +210,7 @@ function App() {
 
       <footer className="footer">
         <p>Salt Bank - Banca digitală modernă</p>
+        <p>Material neafiliat oficial cu banca!</p>
         <a 
           href="https://salt.bank/prietenii-aduc-cashback" 
           target="_blank"
